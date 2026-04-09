@@ -12,7 +12,7 @@
 - Deployment-ready architecture using AWS and GitHub Actions
 
 **Presented by:**  
-`Your Name`
+`Swapnil Thakare`
 
 ---
 
