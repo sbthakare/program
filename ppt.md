@@ -1,6 +1,5 @@
-# Inventory Management System - Manager Presentation
+# Inventory Management System 
 
-This file is written in slide format so you can copy it into PowerPoint or Google Slides directly.
 
 ---
 
