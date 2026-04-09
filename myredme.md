@@ -368,14 +368,6 @@ GitHub Actions workflows are present under [.github/workflows](/abs/path/e:/inve
 - [microservice.yml](/abs/path/e:/inventory-ms/.github/workflows/microservice.yml)
   - deploys microservice to EC2 over SSH
 
-## UAT and Documentation
-
-Project documents created for handoff and testing:
-
-- [UAT_TEST_CASES.md](/abs/path/e:/inventory-ms/UAT_TEST_CASES.md)
-- [UAT_TEST_CASES_EXCEL.csv](/abs/path/e:/inventory-ms/UAT_TEST_CASES_EXCEL.csv)
-- [PROJECT_PRESENTATION_PPT.md](/abs/path/e:/inventory-ms/PROJECT_PRESENTATION_PPT.md)
-- [PROJECT_PRESENTATION_PPT_10_SLIDES.md](/abs/path/e:/inventory-ms/PROJECT_PRESENTATION_PPT_10_SLIDES.md)
 
 ## Notes
 
